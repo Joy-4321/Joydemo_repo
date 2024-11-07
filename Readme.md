@@ -16,3 +16,5 @@ Note, if you add a new text, you wll just ee a green covering, but if you delete
 
 It's amazing, there is a lot of things that I can do that i'm yet to realize, God help me.
 commit this change by first doing git status, then git add . meaning add all before you commit -m that your commit message to track your changes, the .git folder on your local machine, tracks all the changes you made and have made.
+
+Making another changes. let's commit.
