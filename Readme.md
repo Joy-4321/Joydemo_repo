@@ -13,3 +13,6 @@ let me do a ne commit. this will update what so ever i have on this file previou
 Notice that when you want to save your file, you saw a prompt asking if you want to save directly to the main branch or if you want t craate a branch and make your commit there, you can pull the branch or the main branch to your local repo and make your changes there.
 
 Note, if you add a new text, you wll just ee a green covering, but if you deleted anything, you will see it with a read covering when you check the commit. let make a new commit. and after now we are going to our local machine to pull this codes down.
+
+It's amazing, there is a lot of things that I can do that i'm yet to realize, God help me.
+commit this change by first doing git status, then git add . meaning add all before you commit -m that your commit message to track your changes, the .git folder on your local machine, tracks all the changes you made and have made.
